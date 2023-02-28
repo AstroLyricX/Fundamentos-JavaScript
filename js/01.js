@@ -1,9 +1,9 @@
 
-// ! Variables - let, const
+// ! Variables - let
 
 let cliente = 'John';
 
-const precioDescuento = 10; //camelCase
+let precioDescuento = 10; //camelCase
 
 
 // ? Re asignar
