@@ -25,4 +25,4 @@ formulario.addEventListener('submit', (event) => {
     }
 
     formulario.appendChild(alerta);
-})
+});
